@@ -1,0 +1,136 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "lorcalhost",
+      "name": "Lorenzo Callegari 乐子睿",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9640455?v=4",
+      "profile": "https://lorcalhost.com",
+      "contributions": [
+        "infra",
+        "test",
+        "code",
+        "doc",
+        "maintenance",
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "DmytroLitvinov",
+      "name": "Dmytro Litvinov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16066485?v=4",
+      "profile": "https://DmytroLitvinov.com",
+      "contributions": [
+        "code",
+        "ideas",
+        "maintenance",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "bloodf",
+      "name": "Heitor Ramon Ribeiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1626923?v=4",
+      "profile": "http://heitorramon.com",
+      "contributions": [
+        "ideas",
+        "design"
+      ]
+    },
+    {
+      "login": "NovusEdge",
+      "name": "NovusEdge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68768969?v=4",
+      "profile": "https://github.com/NovusEdge",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pwnfoo",
+      "name": "Sachin S. Kamath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9546091?v=4",
+      "profile": "https://github.com/pwnfoo",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "kydrenw",
+      "name": "Hoang Dinh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4505155?v=4",
+      "profile": "https://github.com/kydrenw",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "idkravitz",
+      "name": "Dmitry Kravtsov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/200144?v=4",
+      "profile": "https://github.com/idkravitz",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "sydekumf",
+      "name": "Florian Sydekum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3983052?v=4",
+      "profile": "https://github.com/sydekumf",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tntwist",
+      "name": "Nico L.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6589385?v=4",
+      "profile": "https://github.com/tntwist",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SeriousSeal",
+      "name": "SeriousSeal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57253532?v=4",
+      "profile": "https://github.com/SeriousSeal",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "titulebolide",
+      "name": "titulebolide",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44905741?v=4",
+      "profile": "https://github.com/titulebolide",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "stgo-eo",
+      "name": "Stephen Goult",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7523722?v=4",
+      "profile": "https://github.com/stgo-eo",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "BTB-manager-telegram",
+  "projectOwner": "lorcalhost",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
